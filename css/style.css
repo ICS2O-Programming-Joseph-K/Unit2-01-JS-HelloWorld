@@ -1,0 +1,15 @@
+
+body {
+	background-color: darkseagreen;
+}
+
+h1 {
+	background-color: #236ce1;
+	color: hsl(145, 63%, 32%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #17c3ee;
+}
